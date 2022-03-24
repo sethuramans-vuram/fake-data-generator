@@ -13,7 +13,9 @@
     "typescript": "^4.6.2"
   },
   "dependencies": {
+    "@types/html-pdf": "^3.0.0",
     "esm": "^3.2.25",
-    "fast-csv": "^4.3.6"
+    "fast-csv": "^4.3.6",
+    "html-pdf": "^3.0.1"
   }
 }
